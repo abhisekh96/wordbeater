@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "speed typing game",
   "main": "index.js",
+  "homepage": "https://abhisekh96.github.io/wordbeater",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Abhisekh Hota",
   "license": "MIT",
